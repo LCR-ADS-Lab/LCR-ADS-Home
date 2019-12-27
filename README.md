@@ -15,7 +15,8 @@ We develop (often in collaboration with other labs) and maintain a range of ling
 
 ## People
 ### Director
-**[Kristopher Kyle](www.kristopherkyle.com)** (Assistant Professor, Linguistics Department)
+**[Kristopher Kyle](www.kristopherkyle.com)** (Assistant Professor, Linguistics Department)  
+![Kris Kyle Bio Picture](images/Kyle_Bio.jpg)
 
 #### Graduate Student Researchers
 **Masaki Eguchi** (PhD Student)  
