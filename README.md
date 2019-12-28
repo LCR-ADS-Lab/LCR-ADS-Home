@@ -20,11 +20,11 @@ We develop (often in collaboration with other labs) and maintain a range of ling
 
 **[Kristopher Kyle](www.kristopherkyle.com)** (Assistant Professor, Linguistics Department)  
 
-#### Graduate Student Researchers
+### Graduate Student Researchers
 **Masaki Eguchi** (PhD Student)  
 **Sabine Ricioppo** (Visiting PhD Student)
 
-#### Undergraduate Student Researchers
+### Undergraduate Student Researchers
 
 **Chasen Afghani** (Annotator)  
 **Reed Jordan** (Annotator)  
