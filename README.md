@@ -16,8 +16,8 @@ We develop (often in collaboration with other labs) and maintain a range of ling
 ## People
 ### Director
 
-<img src="https://github.com/LCR-ADS-Lab/LDS-ADS-Lab/blob/master/images/Kyle_Bio.jpg" width="256" title="Kris Kyle Bio Picture">
-![Kris Kyle Bio Picture](images/Kyle_Bio.jpg) **[Kristopher Kyle](www.kristopherkyle.com)** (Assistant Professor, Linguistics Department)  
+<img src="https://github.com/LCR-ADS-Lab/LDS-ADS-Lab/blob/master/images/Kyle_Bio.jpg" width="256" title="Kris Kyle Bio Picture">  
+**[Kristopher Kyle](www.kristopherkyle.com)** (Assistant Professor, Linguistics Department)  
 
 #### Graduate Student Researchers
 **Masaki Eguchi** (PhD Student)  
