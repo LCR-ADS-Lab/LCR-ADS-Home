@@ -21,13 +21,23 @@ We develop (often in collaboration with other labs) and maintain a range of ling
 **[Kristopher Kyle](www.kristopherkyle.com)** (Assistant Professor, Linguistics Department)  
 
 ### Graduate Student Researchers
-**Masaki Eguchi** (PhD Student)  
-**Sabine Ricioppo** (Visiting PhD Student)
+**Masaki Eguchi** (PhD Student, Linguistics, Fall 2017-)  
+**Hakyung Sung** (PhD Student, Linguistics, Fall 2021-)
+
 
 ### Undergraduate Student Researchers
+**Tyler Demmon** (Annotator, Spring 2021-)
+**Zoe Haupt** (Annotator, Spring 2021-)
+**Aaron Miller** (Annotator, Spring 2021-)
+**Ted Sither** (Annotator, Winter 2019- )
+**Claire Worthington** (Annotator, Spring 2021-)
 
-**Chasen Afghani** (Annotator)  
-**Reed Jordan** (Annotator)  
-**Ted Sither** (Annotator)  
-**Stacia Henry** (Transcriber)  
-**Lilly Pool** (Transcriber)
+
+
+### Previous Student Researchers:
+**Sabine Ricioppo** (Visiting PhD Student, Fall 2019-Summer 2020)
+**Chasen Afghani** (Annotator, Winter-Summer 2019)  
+**Charles Baker-Rozell** (Annotator, Spring 2021)
+**Stacia Henry** (Transcriber, Winter 2019)  
+**Reed Jordan** (Annotator, Winter-Summer 2019)  
+**Lilly Pool** (Transcriber, Winter-Summer 2019)
