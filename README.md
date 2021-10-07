@@ -18,7 +18,7 @@ We develop (often in collaboration with other labs) and maintain a range of ling
 
 <img src="images/Kyle_Bio.jpg" width="256" title="Kris Kyle Bio Picture">
 
-**[Kristopher Kyle](www.kristopherkyle.com)** (Assistant Professor, Linguistics Department)  
+** [Kristopher Kyle](www.kristopherkyle.com) ** (Assistant Professor, Linguistics Department)  
 
 ### Graduate Student Researchers
 **Masaki Eguchi** (PhD Student, Linguistics, Fall 2017-)  
