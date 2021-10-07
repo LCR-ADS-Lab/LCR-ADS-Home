@@ -11,14 +11,14 @@ The LCR-ADS lab at the University of Oregon conducts linguistic research related
 
 ## Linguistic Analysis Tools
 We develop (often in collaboration with other labs) and maintain a range of linguistic analysis tools.   
-[Click here to learn more](www.linguisticanalysistools.org)
+[Click here to learn more](https://www.linguisticanalysistools.org/)
 
 ## People
 ### Director
 
 <img src="images/Kyle_Bio.jpg" width="256" title="Kris Kyle Bio Picture">
 
-** [Kristopher Kyle](www.kristopherkyle.com) ** (Assistant Professor, Linguistics Department)  
+**[Kristopher Kyle](https://kristopherkyle.github.io/professional-webpage/) ** (Assistant Professor, Linguistics Department)  
 
 ### Graduate Student Researchers
 **Masaki Eguchi** (PhD Student, Linguistics, Fall 2017-)  
