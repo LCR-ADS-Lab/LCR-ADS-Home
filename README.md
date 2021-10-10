@@ -23,7 +23,7 @@ We develop (often in collaboration with other labs) and maintain a range of ling
 ### Graduate Student Researchers
 **Masaki Eguchi** (PhD Student, Linguistics, Fall 2017-)  
 
-<img src="images/hakyung_bio_pic.jpg" width="256" title="Kris Kyle Bio Picture">
+<img src="images/hakyung_bio_pic.jpeg" width="256" title="Hakyung Sung Bio Picture">
 
 **Hakyung Sung** (PhD Student, Linguistics, Fall 2021-)
 
