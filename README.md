@@ -21,11 +21,12 @@ We develop (often in collaboration with other labs) and maintain a range of ling
 **<a href="https://kristopherkyle.github.io/professional-webpage/" target="_blank">Kristopher Kyle</a>** (Assistant Professor, Linguistics Department)  
 
 ### Graduate Student Researchers
-**Masaki Eguchi** (PhD Student, Linguistics, Fall 2017-)  
+**<a href="https://masakieguchi.weebly.com/about-me.html" target="_blank">Masaki Eguchi</a>** (PhD Student, Linguistics, Fall 2017-)  
+
 
 <img src="images/hakyung_bio_pic.jpeg" width="256" title="Hakyung Sung Bio Picture">
 
-**Hakyung Sung** (PhD Student, Linguistics, Fall 2021-)
+**<a href="https://hksung.github.io/" target="_blank">Hakyung Sung</a>** (PhD Student, Linguistics, Fall 2021-)
 
 
 ### Undergraduate Student Researchers
