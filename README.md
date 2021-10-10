@@ -10,9 +10,7 @@ The LCR-ADS lab at the University of Oregon conducts linguistic research related
 (2018-2020). *A linguistic analysis of the communication demands in typical technology-mediated learning environments.* PI: Kristopher Kyle. Co-PIs: Nicole Ziegler & Geoffrey LaFlair. Grant sponsored by TOEFL Committee of Examiners.
 
 ## Linguistic Analysis Tools
-We develop (often in collaboration with other labs) and maintain a range of linguistic analysis tools.   
-[Click here to learn more](https://www.linguisticanalysistools.org/)
-
+We develop (often in collaboration with other labs) and maintain a range of linguistic analysis tools.  <a href="https://www.linguisticanalysistools.org/" target="_blank">Click here to learn more</a>
 ## People
 ### Director
 
