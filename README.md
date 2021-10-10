@@ -22,6 +22,9 @@ We develop (often in collaboration with other labs) and maintain a range of ling
 
 ### Graduate Student Researchers
 **Masaki Eguchi** (PhD Student, Linguistics, Fall 2017-)  
+
+<img src="images/hakyung_bio_pic.jpg" width="256" title="Kris Kyle Bio Picture">
+
 **Hakyung Sung** (PhD Student, Linguistics, Fall 2021-)
 
 
@@ -38,6 +41,8 @@ We develop (often in collaboration with other labs) and maintain a range of ling
 **Sabine Ricioppo** (Visiting PhD Student, Fall 2019-Summer 2020)  
 **Chasen Afghani** (Annotator, Winter-Summer 2019)    
 **Charles Baker-Rozell** (Annotator, Spring 2021)  
-**Stacia Henry** (Transcriber, Winter 2019)    
-**Reed Jordan** (Annotator, Winter-Summer 2019)    
+**Stacia Henry** (Transcriber, Winter 2019)
+**Reed Jordan** (Annotator, Winter-Summer 2019)  
+**Yancee Larson** (Transcriber, Winter-Summer 2019)   
 **Lilly Pool** (Transcriber, Winter-Summer 2019)  
+**Grace Teuscher** (Annotator, Winter-Summer 2019)
