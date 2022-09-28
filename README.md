@@ -16,7 +16,7 @@ We develop (often in collaboration with other labs) and maintain a range of ling
 
 <img src="images/Kyle_Bio.jpg" width="256" title="Kris Kyle Bio Picture">
 
-**<a href="https://kristopherkyle.github.io/professional-webpage/" target="_blank">Kristopher Kyle</a>** (Assistant Professor, Linguistics Department)  
+**<a href="https://kristopherkyle.github.io/professional-webpage/" target="_blank">Kristopher Kyle</a>** (Associate Professor, Linguistics Department)  
 
 ### Graduate Student Researchers
 
@@ -31,21 +31,20 @@ We develop (often in collaboration with other labs) and maintain a range of ling
 
 
 
-### Undergraduate Student Researchers
-**Tyler Demmon** (Annotator, Spring 2021-)  
-**Zoe Haupt** (Annotator, Spring 2021-)  
+### Undergraduate Student Researchers:
 **Aaron Miller** (Annotator, Spring 2021-)  
-**Ted Sither** (Annotator, Winter 2019- )  
-**Claire Worthington** (Annotator, Spring 2021-)  
-
-
+**Ryan Walker** (Annotator, Winter 2022-)
 
 ### Previous Student Researchers:
-**Sabine Ricioppo** (Visiting PhD Student, Fall 2019-Summer 2020)  
-**Chasen Afghani** (Annotator, Winter-Summer 2019)    
-**Charles Baker-Rozell** (Annotator, Spring 2021)  
+**Sabine Ricioppo** (Visiting PhD Student, Fall 2019-Summer 2020)
+**Chasen Afghani** (Annotator, Winter-Summer 2019)  
+**Charles Baker-Rozell** (Annotator, Spring 2021)
+**Tyler Demmon** (Annotator, Spring 2021-Summer 2022)
+**Zoe Haupt** (Annotator, Spring 2021-Summer 2022)
 **Stacia Henry** (Transcriber, Winter 2019)  
 **Reed Jordan** (Annotator, Winter-Summer 2019)  
-**Yancee Larson** (Transcriber, Winter-Summer 2019)   
-**Lilly Pool** (Transcriber, Winter-Summer 2019)  
+**Yancee Larson** (Transcriber, Winter-Summer 2019)  
+**Lilly Pool** (Transcriber, Winter-Summer 2019)
+**Ted Sither** (Annotator, Winter 2019-Summer 2022)  
 **Grace Teuscher** (Annotator, Winter-Summer 2019)
+**Claire Worthington** (Annotator, Spring 2021-Summer 2022)  
