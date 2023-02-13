@@ -1,0 +1,61 @@
+ul.horizontal-list {
+  display: flex;
+  //justify-content: space-between;
+  margin-top: 0em;
+  margin-left: -40px;
+  flex-wrap: wrap;
+
+  li {
+    display:inline;
+    margin-right: 1em;
+  }
+
+  li a {
+    text-decoration: none;
+    font-weight: normal
+  }
+
+}
+
+.card {
+  padding: 1em;
+  border: 1px var(--text) solid;
+  width: 11em;
+  height: auto;
+  text-align: left;
+  font-size: 1em;
+  align-items: center;
+  background-color: var(--bg-secondary);
+  margin-bottom: 0.8em;
+  border-radius: 0.5em;
+  font-weight: bold;
+
+  .header {
+    color: var(--highlight);
+    text-align: left;
+  }
+
+  .body {
+    color: var(--highlight);
+    font-size: 0.8em;
+    text-align: left
+  }
+
+  hr {
+    margin: 0.5em 0;
+  }
+
+}
+
+/* Responsive cards - one column layout on small screens */
+@media screen and (max-width: 600px) {
+  ul.horizontal-list li.card {
+    width: 100%;
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    a, .header {
+      font-size: 1em;
+    }
+  }
+}

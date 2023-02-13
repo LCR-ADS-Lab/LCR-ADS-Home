@@ -1,0 +1,47 @@
+title: Welcome to the LCR-ADS Lab
+director: Kristopher Kyle
+url: https://lcr-ads-lab.github.io/LCR-ADS-Home/ # root address of the site
+description: > # description of the site (multiple lines allowed)
+ The LCR-ADS (Learner Corpus Research and Applied Data Science) lab at the University of Oregon conducts linguistic research related to language development and assessment (primarily with second language users). We develop, test, and implement linguistic analysis methods, collect and annotate corpora, and develop and evaluate language assessment tools (primarily related to language production tasks).
+
+permalink: /:slug
+
+favicon: "images2/favicon-uo.png" # relative path to site's favicon
+
+
+#theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
+remote_theme: abhinavs/moonwalk
+
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  appearance_toggle: true # if appearance can be switched by user
+  back_home_text: "Home" # customize text for homepage link in post layout
+  date_format: "%m-%d-%Y" # customize how date is formatted
+  show_description: true # show blog description
+  show_navbar: true # show horizontal navbar
+  show_footer: true # show footer links in home page,add in _data/home.yml
+  show_copyright: true # show copyright notice in footer
+  # following keys are using to create home layout
+  show_projects: true # show projects as cards, add in _data/home.yml
+  show_blog: false # show blog posts added in _posts
+  show_old_projects: true # show old projects as cards, add in _data/home.yml
+  show_misc_list: true # show generic vertical list for misc details, add _data/home.yml
+  show_reading_time: flase # show number of words and reading time in the blog posts
+  show_tags: false # show tags in a blog posts
+  # options for "home" page
+  home:
+    title_projects: Projects
+    title_old_projects: Recently published
+    title_misc_list: What we do
+
+soopr:
+  publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
+
+highlighter: rouge
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-soopr-seo-tag
