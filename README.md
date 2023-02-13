@@ -20,7 +20,7 @@ We develop (often in collaboration with other labs) and maintain a range of ling
 
 ### Graduate Student Researchers
 
-<img src="images/masaki_2017.jpeg" width="256" title="Masaki Eguchi Bio Picture">  
+<img src="images/masaki_2023-edit.jpg" width="256" title="Masaki Eguchi Bio Picture">  
 
 **<a href="https://masakieguchi.weebly.com/about-me.html" target="_blank">Masaki Eguchi</a>** (PhD Student, Linguistics, Fall 2017-)  
 
