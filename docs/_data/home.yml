@@ -25,7 +25,7 @@ old_project_entries:
     desc: In <i>Proceedings of the 17th Workshop on Innovative Use of NLP for Building Educational Applications</i>
 
   - title: An Argument Structure Construction Treebank (2023)
-    url: false
+    url: https://aclanthology.org/2023.cxgsnlp-1.7.pdf
     desc: In <i>Proceedings of the 2023 International Conference on CG+NLP (GURT Linguistics)</i> - will be updated
 
 footer_entries:
