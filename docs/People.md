@@ -44,7 +44,7 @@ title: People
 </div>
 
 <div style="display: flex;">
-  <div style="flex: 1; padding-right: 20px; text-align: right;">
+  <div style="flex: 1; padding-right: 20px; text-align: center;">
     <h3>Undergraduate Student Researchers</h3>
     <div style="display: flex; flex-direction: column; align-items: center;">
       <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
