@@ -48,7 +48,7 @@ title: People
     <h3>Undergraduate Student Researchers</h3>
     <div style="display: flex; flex-direction: column; align-items: center;">
       <div style="height: 150px; width: 150px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
-        <img src="images/gus.jpeg" style="height: 100%;">
+        <img src="/images/gus.jpeg" style="height: 100%;">
       </div>
       <p style="text-align: center;">
         <strong>Augustus Paddock</strong><br>
@@ -57,7 +57,7 @@ title: People
     </div>
     <div style="display: flex; flex-direction: column; align-items: center;">
       <div style="height: 200px; width: 200px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
-        <img src="images/holly.jpg" style="height: 100%;">
+        <img src="/images/holly.jpg" style="height: 100%;">
       </div>
       <p style="text-align: center;">
         <strong>Holly Renshaw</strong><br>
@@ -66,7 +66,7 @@ title: People
     </div>
     <div style="display: flex; flex-direction: column; align-items: center;">
       <div style="height: 200px; width: 200px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
-        <img src="images/ryan.jpg" style="height: 100%;">
+        <img src="/images/ryan.jpg" style="height: 100%;">
       </div>
       <p style="text-align: center;">
         <strong>Ryan Walker</strong><br>
