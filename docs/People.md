@@ -104,7 +104,6 @@ title: People
       (Annotator, W-S19)<br>
       <strong>Claire Worthington</strong><br> 
       (Annotator, S21)<br>
-       
     </p>
   </div>
 </div>
