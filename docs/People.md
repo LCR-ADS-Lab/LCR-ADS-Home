@@ -48,7 +48,7 @@ title: People
     <h3>Undergraduate Student Researchers</h3>
     <div style="display: flex; flex-direction: column; align-items: center;">
       <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
-        <img src="images/gus.jpeg" style="height: 100%;">
+        <img src="images/gus-edit.jpg" style="height: 100%;">
       </div>
       <p style="text-align: center;">
         <strong>Augustus Paddock</strong><br>
