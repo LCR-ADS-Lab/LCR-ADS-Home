@@ -42,7 +42,6 @@ title: People
     <span>(PhD Student, Linguistics, Fall 21-)</span>
   </div>
 </div>
-
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 20px; text-align: center;">
     <h3>Undergraduate Student Researchers</h3>
@@ -54,6 +53,7 @@ title: People
         <strong>Hana Dussan</strong><br>
         (Annotator, Summer23-)
       </p>    
+    </div>
     <div style="display: flex; flex-direction: column; align-items: center;">
       <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
         <img src="images/bg-edit.jpeg" style="height: 100%;">
@@ -62,6 +62,7 @@ title: People
         <strong>Bella Graham</strong><br>
         (Annotator, Summer23-)
       </p>
+    </div>
     <div style="display: flex; flex-direction: column; align-items: center;">
       <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
         <img src="images/mh-edit.png" style="height: 100%;">
@@ -90,9 +91,9 @@ title: People
       </p>
     </div>
   </div>
-   <div style="flex: 1; padding-left: 20px; text-align: left;">
-     <h3>Previous Student Researchers</h3>
-     <p>
+  <div style="flex: 1; padding-left: 20px; text-align: left;">
+    <h3>Previous Student Researchers</h3>
+    <p>
       <strong>Sabine Ricioppo</strong><br>
       (Visiting PhD Std., F19-S20)<br>
       <strong>Chasen Afghani</strong><br>
