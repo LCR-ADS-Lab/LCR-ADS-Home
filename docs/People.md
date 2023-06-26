@@ -90,7 +90,6 @@ title: People
       </p>
     </div>
   </div>
-
    <div style="flex: 1; padding-left: 20px; text-align: left;">
      <h3>Previous Student Researchers</h3>
      <p>
