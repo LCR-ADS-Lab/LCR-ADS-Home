@@ -48,12 +48,28 @@ title: People
     <h3>Undergraduate Student Researchers</h3>
     <div style="display: flex; flex-direction: column; align-items: center;">
       <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
-        <img src="images/gus-edit.jpg" style="height: 100%;">
+        <img src="images/basic.png" style="height: 100%;">
       </div>
       <p style="text-align: center;">
-        <strong>Augustus Paddock</strong><br>
-        (Annotator, S23-)
+        <strong>Hana Dussan</strong><br>
+        (Annotator, Summer23-)
+      </p>    
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
+        <img src="images/bg-edit.jpeg" style="height: 100%;">
+      </div>
+      <p style="text-align: center;">
+        <strong>Bella Graham</strong><br>
+        (Annotator, Summer23-)
       </p>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
+        <img src="images/mh-edit.png" style="height: 100%;">
+      </div>
+      <p style="text-align: center;">
+        <strong>Marianne Hatley</strong><br>
+        (Annotator, Summer23-)
+      </p>      
     </div>
     <div style="display: flex; flex-direction: column; align-items: center;">
       <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
@@ -61,7 +77,7 @@ title: People
       </div>
       <p style="text-align: center;">
         <strong>Holly Renshaw</strong><br>
-        (Annotator, S23-)
+        (Annotator, Spring23-)
       </p>
     </div>
     <div style="display: flex; flex-direction: column; align-items: center;">
@@ -70,7 +86,7 @@ title: People
       </div>
       <p style="text-align: center;">
         <strong>Ryan Walker</strong><br>
-        (Annotator, W23-)
+        (Annotator, Winter23-)
       </p>
     </div>
   </div>
@@ -96,6 +112,8 @@ title: People
       (Transcriber, W-S19)<br>
       <strong>Aaron Miller</strong><br>
       (Annotator, S21-W23)<br>
+      <strong>Augustus Paddock</strong><br>
+      (Annotator, S23)<br> 
       <strong>Lilly Pool</strong><br>
       (Transcriber, W-S19)<br>
       <strong>Ted Sither</strong><br>
