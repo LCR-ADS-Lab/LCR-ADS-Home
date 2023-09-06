@@ -28,6 +28,10 @@ old_project_entries:
     url: https://aclanthology.org/2023.cxgsnlp-1.7.pdf
     desc: In <i>Proceedings of the First International Workshop on Construction Grammars and NLP (CxGs+NLP, GURT/SyntaxFest 2023)</i>
 
+  - title: Evaluating evidence for the reliability and validity of lexical diversity indices in L2 oral task responses (2023)
+    url: https://doi.org/10.1017/S0272263123000402
+    desc: In <i>Studies in Second Language Acquisition</i>
+
 footer_entries:
   - title: Maintained by <a href="https://github.com/LCR-ADS-Lab" target="_blank"> LCR-ADS-Lab</a>, University of Oregon
     url: false
