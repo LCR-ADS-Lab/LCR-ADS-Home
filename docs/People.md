@@ -50,7 +50,7 @@ title: People
       <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
         <img src="images/masaki_2023-edit.jpg" style="height: 100%;">
       </div>
-      <p style="text-align: left;">
+      <p style="text-align: center;">
         <a href="https://masakieguchi.weebly.com/" target="_blank"><strong>Masaki Eguchi</strong></a><br>
         (Fall 2018-Spring 2023,<br>
         Research Assistant Professor at<br>
@@ -65,7 +65,7 @@ title: People
       <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
         <img src="images/basic.png" style="height: 100%;">
       </div>
-      <p style="text-align: left;">
+      <p style="text-align: center;">
         <strong>Shinchul Hong</strong><br>
         (Spring 2023-Winter 2024,<br>
         Professor at<br>
