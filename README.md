@@ -35,7 +35,7 @@ We develop (often in collaboration with other labs) and maintain a range of ling
 **<a href="https://hksung.github.io/" target="_blank">Hakyung Sung</a>** (PhD Student, Linguistics, Fall 2021-)
 
 ### Visiting Scholars
-**Hong Shinchul** (Professor at Busan University of Foreign Studies, Spring 2023-)  
+**Shinchul Hong** (Professor at Busan University of Foreign Studies, Spring 2023-)  
 
 ### Previous Graduate Students
 <img src="images/masaki_2023-edit.jpg" width="256" title="Masaki Eguchi Bio Picture">  
