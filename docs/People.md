@@ -64,6 +64,7 @@ title: People
     </p>
   </div>
 </div>
+</div>
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 20px; text-align: center;">
     <h3>Undergraduate Student Researchers</h3>
