@@ -44,24 +44,15 @@ title: People
 </div>
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 20px; text-align: center;">
-    <h3>Undergraduate Student Researchers</h3>
+   <h3>Previous Graduate Students</h3>
     <div style="display: flex; flex-direction: column; align-items: center;">
-      <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
-        <img src="images/bg-edit.jpeg" style="height: 100%;">
-      </div>
-      <p style="text-align: center;">
-        <strong>Bella Graham</strong><br>
-        (Annotator, Summer23-)
-      </p>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
-        <img src="images/mh-edit.png" style="height: 100%;">
-      </div>
-      <p style="text-align: center;">
-        <strong>Marianne Hatley</strong><br>
-        (Annotator, Summer23-)
-      </p>      
+    <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
+        <img src="images/masaki_2023-edit.jpg" style="height: 100%;">
+       </div>
+       <p style="text-align: center;">
+         <a href="https://masakieguchi.weebly.com/" target="_blank"><strong>Masaki Eguchi</strong></a><br>
+         (Fall 2018- Spring 2023) (Research Assistant Professor at Waseda University)
+       </p>      
     </div>
     <div style="display: flex; flex-direction: column; align-items: center;">
       <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
@@ -69,7 +60,7 @@ title: People
       </div>
       <p style="text-align: center;">
         <strong>Holly Renshaw</strong><br>
-        (Annotator, Spring23-)
+        (Annotator, Spring 23-)
       </p>
     </div>
     <div style="display: flex; flex-direction: column; align-items: center;">
@@ -78,7 +69,56 @@ title: People
       </div>
       <p style="text-align: center;">
         <strong>Ryan Walker</strong><br>
-        (Annotator, Winter23-)
+        (Annotator, Winter 23-)
+      </p>
+    </div>
+  </div>
+  <div style="flex: 1; padding-left: 20px; text-align: left;">
+    <h3>Visiting Scholars</h3>
+    <p>
+      <strong>Shinchul Hong</strong><br>
+      (Professor at Busan University of Foreign Studies, Spring 2023-)<br>  
+    </p>
+  </div>
+</div>
+</div>
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 20px; text-align: center;">
+    <h3>Undergraduate Student Researchers</h3>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
+        <img src="images/bg-edit.jpeg" style="height: 100%;">
+      </div>
+      <p style="text-align: center;">
+        <strong>Bella Graham</strong><br>
+        (Annotator, Summer 23-)
+      </p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
+        <img src="images/mh-edit.png" style="height: 100%;">
+      </div>
+      <p style="text-align: center;">
+        <strong>Marianne Hatley</strong><br>
+        (Annotator, Summer 23-)
+      </p>      
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
+        <img src="images/holly.jpg" style="height: 100%;">
+      </div>
+      <p style="text-align: center;">
+        <strong>Holly Renshaw</strong><br>
+        (Annotator, Spring 23-)
+      </p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
+        <img src="images/ryan.jpg" style="height: 100%;">
+      </div>
+      <p style="text-align: center;">
+        <strong>Ryan Walker</strong><br>
+        (Annotator, Winter 23-)
       </p>
     </div>
   </div>
@@ -86,37 +126,37 @@ title: People
     <h3>Previous Student Researchers</h3>
     <p>
       <strong>Sabine Ricioppo</strong><br>
-      (Visiting PhD Std., F19-S20)<br>
+      (Visiting PhD Std., F 19-SP 20)<br>
       <strong>María Adsuara Martínez</strong><br>
-      (Visiting PhD Std., Sm23)<br>
+      (Visiting PhD Std., SU 23)<br>
       <strong>Chasen Afghani</strong><br>
-      (Annotator, W-S19)<br>
+      (Annotator, W-SP 19)<br>
       <strong>Charles Baker-Rozell</strong><br>
-      (Annotator, S21)<br>
+      (Annotator, SP 21)<br>
       <strong>Tyler Demmon</strong><br>
-      (Annotator, S21)<br>
+      (Annotator, SP 21)<br>
       <strong>Hana Dussan</strong><br>
-      (Annotator, S-Sm23)<br>
+      (Annotator, SP-SU 23)<br>
       <strong>Zoe Haupt</strong><br>
-      (Annotator, S21)<br>
+      (Annotator, SP 21)<br>
       <strong>Stacia Henry</strong><br>
-      (Transcriber, W19)<br>
+      (Transcriber, W 19)<br>
       <strong>Reed Jordan</strong><br>
-      (Annotator, W-S19)<br>
+      (Annotator, W-SP 19)<br>
       <strong>Yancee Larson</strong><br>
-      (Transcriber, W-S19)<br>
-      <strong>Aaron Miller</strong><br>
-      (Annotator, S21-W23)<br>
+      (Transcriber, W-SP 19)<br>
+      <strong><a href="https://amille929.github.io" target="_blank">Aaron Miller</strong><br>
+      (Annotator, SP 21-W 23)<br>
       <strong>Augustus Paddock</strong><br>
-      (Annotator, S23)<br> 
+      (Annotator, SP 23)<br> 
       <strong>Lilly Pool</strong><br>
-      (Transcriber, W-S19)<br>
+      (Transcriber, W-SP 19)<br>
       <strong>Ted Sither</strong><br>
-      (Annotator, W19-S22)<br>
+      (Annotator, W 19-SP 22)<br>
       <strong>Grace Teuscher</strong><br> 
-      (Annotator, W-S19)<br>
+      (Annotator, W-SP 19)<br>
       <strong>Claire Worthington</strong><br> 
-      (Annotator, S21)<br>
+      (Annotator, SP 21)<br>
     </p>
   </div>
 </div>
