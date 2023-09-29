@@ -21,7 +21,7 @@ project_entries:
 
   - title: TAALES_ES (2023)
     url: https://github.com/LCR-ADS-Lab/TAALES_ES
-    desc: This repository includes the code for the Spanish Version of TAALES (TAALES Español).
+    desc: This repository includes the code for the Spanish Version of TAALES.
 
 old_project_entries:
   - title: A Dependency Treebank of Spoken Second Language English (2022)
