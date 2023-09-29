@@ -28,7 +28,7 @@ We develop (often in collaboration with other labs) and maintain a range of ling
 
 <img src="images/carla.png" width="256" title="Carla Bio Picture">
 
-**<a href="https://www.carlaconsolini.com/" target="_blank">Carla Consolini</a>** (PhD Student, Linguistics, Fall 2019-)
+**<a href="https://www.carlaconsolini.com/" target="_blank">Carla Consolini</a>** (PhD Candidate, Linguistics, Fall 2019-)
 
 <img src="images/hakyung_bio_pic.jpeg" width="256" title="Hakyung Sung Bio Picture">
 
@@ -40,8 +40,8 @@ We develop (often in collaboration with other labs) and maintain a range of ling
 ### Previous Graduate Students
 <img src="images/masaki_2023-edit.jpg" width="256" title="Masaki Eguchi Bio Picture">  
 
-**<a href="https://masakieguchi.weebly.com/about-me.html" target="_blank">Masaki Eguchi</a>** (PhD Student, Linguistics, Fall 2018-2023) 
-Research Assistant Professor at Waseda University
+**<a href="https://masakieguchi.weebly.com/about-me.html" target="_blank">Masaki Eguchi</a>** (Fall 2018-2023) (Research Assistant Professor at Waseda University) 
+
 
 ### Undergraduate Student Researchers:
 **Bella Graham** (Annotator, Summer23-)  
