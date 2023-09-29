@@ -45,9 +45,9 @@ Research Assistant Professor at Waseda University
 
 ### Undergraduate Student Researchers:
 **Bella Graham** (Annotator, Summer23-)  
-**Marianne Hatley** (Annotator, Summer23-)
-**Holly Renshaw** (Annotator, Spring23-)
-**Ryan Walker** (Annotator, Winter23-)
+**Marianne Hatley** (Annotator, Summer23-)  
+**Holly Renshaw** (Annotator, Spring23-)  
+**Ryan Walker** (Annotator, Winter23-)  
 
 ### Previous Student Researchers:
 **Sabine Ricioppo** (Visiting PhD Student, Fall 2019-Summer 2020)  
