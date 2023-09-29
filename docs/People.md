@@ -53,8 +53,7 @@ title: People
       <p style="text-align: left;">
         <a href="https://masakieguchi.weebly.com/" target="_blank"><strong>Masaki Eguchi</strong></a><br>
         (Fall 2018- Spring 2023<br>
-        → Research Assistant Professor<br> 
-        at Waseda University)
+        → Research Assistant Professor, Waseda University)
       </p>
     </div>
   </div>
@@ -63,10 +62,9 @@ title: People
     <h3>Visiting Scholars</h3>
     <p>
       <strong>Shinchul Hong</strong><br>
-      (Spring 2023-, Professor at Busan University of Foreign Studies)<br>
+      (Spring 2023-, Professor, Busan University of Foreign Studies)<br>
     </p>
   </div>
-</div>
 </div>
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 20px; text-align: center;">
