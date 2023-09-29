@@ -52,7 +52,7 @@ title: People
       </div>
       <p style="text-align: left;">
         <a href="https://masakieguchi.weebly.com/" target="_blank"><strong>Masaki Eguchi</strong></a><br>
-        (Fall 2018- Spring 2023<br>
+        (Fall 2018-Spring 2023<br>
         → Research Assistant Professor at<br>
         Waseda University)
       </p>
@@ -60,15 +60,15 @@ title: People
   </div>
   <!-- Visiting Scholars section -->
   <div style="flex: 1; padding-right: 20px; text-align: center;">
-    <h3>Previous Graduate Students</h3>
+    <h3>Visiting Scholars</h3>
     <div style="display: flex; flex-direction: column; align-items: center;">
       <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
         <img src="images/basic.png" style="height: 100%;">
       </div>
       <p style="text-align: left;">
-        <strong>Shinchul Hong</strong></a><br>
-        (Spring 2023-<br>
-        Professor at<br>
+        <strong>Shinchul Hong</strong><br>
+        (Spring 2023-Winter 2024<br>
+        ← Professor at<br>
         Busan University of Foreign Studies)
       </p>
     </div>
