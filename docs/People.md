@@ -51,28 +51,11 @@ title: People
        </div>
        <p style="text-align: center;">
          <a href="https://masakieguchi.weebly.com/" target="_blank"><strong>Masaki Eguchi</strong></a><br>
-         (Fall 2018- Spring 2023) (Research Assistant Professor at Waseda University)
+         (Fall 2018- Spring 2023)<br>
+         (Research Assistant Professor at Waseda University)
        </p>      
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
-        <img src="images/holly.jpg" style="height: 100%;">
-      </div>
-      <p style="text-align: center;">
-        <strong>Holly Renshaw</strong><br>
-        (Annotator, Spring 23-)
-      </p>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
-        <img src="images/ryan.jpg" style="height: 100%;">
-      </div>
-      <p style="text-align: center;">
-        <strong>Ryan Walker</strong><br>
-        (Annotator, Winter 23-)
-      </p>
-    </div>
-  </div>
   <div style="flex: 1; padding-left: 20px; text-align: left;">
     <h3>Visiting Scholars</h3>
     <p>
