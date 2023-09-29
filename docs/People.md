@@ -128,7 +128,7 @@ title: People
       (Annotator, W-SP 19)<br>
       <strong>Yancee Larson</strong><br>
       (Transcriber, W-SP 19)<br>
-      <strong><a href="https://amille929.github.io" target="_blank">Aaron Miller</strong><br>
+      <strong><a href="https://amille929.github.io" target="_blank">Aaron Miller</strong></a><br>
       (Annotator, SP 21-W 23)<br>
       <strong>Augustus Paddock</strong><br>
       (Annotator, SP 23)<br> 
