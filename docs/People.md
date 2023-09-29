@@ -43,7 +43,7 @@ title: People
   </div>
 </div>
 <div style="display: flex;">
-  <div style="flex: 1; padding-right: 20px; text-align: center;">
+  <div style="flex: 1; padding-right: 20px; text-align: left;">
    <h3>Previous Graduate Students</h3>
     <div style="display: flex; flex-direction: column; align-items: center;">
     <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
@@ -51,9 +51,9 @@ title: People
        </div>
        <p style="text-align: center;">
          <a href="https://masakieguchi.weebly.com/" target="_blank"><strong>Masaki Eguchi</strong></a><br>
-         (Fall 2018- Spring 2023)<br>
-         Research Assistant Professor <br>
-         at Waseda University
+         (Fall 2018- Spring 2023<br>
+         → Research Assistant Professor<br> 
+         at Waseda University)
        </p>
     </div>
   <div style="flex: 1; padding-left: 20px; text-align: left;">
@@ -63,7 +63,6 @@ title: People
       (Professor at Busan University of Foreign Studies, Spring 2023-)<br>  
     </p>
   </div>
-</div>
 </div>
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 20px; text-align: center;">
