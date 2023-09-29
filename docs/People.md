@@ -43,13 +43,13 @@ title: People
   </div>
 </div>
 <div style="display: flex;">
-  <div style="flex: 1; padding-right: 20px; text-align: left;">
+  <div style="flex: 1; padding-right: 20px; text-align: center;">
    <h3>Previous Graduate Students</h3>
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: flex; flex-direction: column; align-items: left;">
     <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
         <img src="images/masaki_2023-edit.jpg" style="height: 100%;">
        </div>
-       <p style="text-align: center;">
+       <p style="text-align: left;">
          <a href="https://masakieguchi.weebly.com/" target="_blank"><strong>Masaki Eguchi</strong></a><br>
          (Fall 2018- Spring 2023<br>
          → Research Assistant Professor<br> 
