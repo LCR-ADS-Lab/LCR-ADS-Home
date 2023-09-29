@@ -60,7 +60,7 @@ Research Assistant Professor at Waseda University
 **Stacia Henry** (Transcriber, Winter 2019)  
 **Reed Jordan** (Annotator, Winter-Summer 2019)  
 **Yancee Larson** (Transcriber, Winter-Summer 2019)  
-**<a href="https:https://amille929.github.io" target="_blank">Aaron Miller** (Annotator, Spring21-Winter23)  
+**<a href="https://amille929.github.io" target="_blank">Aaron Miller** (Annotator, Spring21-Winter23)  
 **Lilly Pool** (Transcriber, Winter-Summer 2019)  
 **Ted Sither** (Annotator, Winter 2019-Spring 2022)  
 **Grace Teuscher** (Annotator, Winter-Summer 2019)  
