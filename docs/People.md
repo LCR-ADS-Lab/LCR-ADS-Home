@@ -52,9 +52,9 @@ title: People
        <p style="text-align: center;">
          <a href="https://masakieguchi.weebly.com/" target="_blank"><strong>Masaki Eguchi</strong></a><br>
          (Fall 2018- Spring 2023)<br>
-         (Research Assistant Professor at Waseda University)
-       </p>      
-    </div>
+         Research Assistant Professor <br>
+         at Waseda University
+       </p>
     </div>
   <div style="flex: 1; padding-left: 20px; text-align: left;">
     <h3>Visiting Scholars</h3>
@@ -128,7 +128,7 @@ title: People
       (Annotator, W-SP 19)<br>
       <strong>Yancee Larson</strong><br>
       (Transcriber, W-SP 19)<br>
-      <strong><a href="https://amille929.github.io" target="_blank">Aaron Miller</strong></a><br>
+      <strong><a href="https://amille929.github.io" target="_blank">Aaron Miller</a></strong><br>
       (Annotator, SP 21-W 23)<br>
       <strong>Augustus Paddock</strong><br>
       (Annotator, SP 23)<br> 
