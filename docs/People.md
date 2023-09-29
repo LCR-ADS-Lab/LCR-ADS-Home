@@ -43,24 +43,27 @@ title: People
   </div>
 </div>
 <div style="display: flex;">
+  <!-- Previous Graduate Students section -->
   <div style="flex: 1; padding-right: 20px; text-align: center;">
-   <h3>Previous Graduate Students</h3>
+    <h3>Previous Graduate Students</h3>
     <div style="display: flex; flex-direction: column; align-items: left;">
-    <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
+      <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
         <img src="images/masaki_2023-edit.jpg" style="height: 100%;">
-       </div>
-       <p style="text-align: left;">
-         <a href="https://masakieguchi.weebly.com/" target="_blank"><strong>Masaki Eguchi</strong></a><br>
-         (Fall 2018- Spring 2023<br>
-         → Research Assistant Professor<br> 
-         at Waseda University)
-       </p>
+      </div>
+      <p style="text-align: left;">
+        <a href="https://masakieguchi.weebly.com/" target="_blank"><strong>Masaki Eguchi</strong></a><br>
+        (Fall 2018- Spring 2023<br>
+        → Research Assistant Professor<br> 
+        at Waseda University)
+      </p>
     </div>
-  <div style="flex: 1; padding-left: 20px; text-align: left;">
+  </div>
+  <!-- Visiting Scholars section -->
+  <div style="flex: 1; padding-left: 20px; text-align: center;">
     <h3>Visiting Scholars</h3>
     <p>
       <strong>Shinchul Hong</strong><br>
-      (Professor at Busan University of Foreign Studies, Spring 2023-)<br>  
+      (Spring 2023-, Professor at Busan University of Foreign Studies)<br>
     </p>
   </div>
 </div>
