@@ -28,7 +28,7 @@ We develop (often in collaboration with other labs) and maintain a range of ling
 
 <img src="images/carla.png" width="256" title="Carla Bio Picture">
 
-**<a href="https://www.carlaconsolini.com/" target="_blank">Carla H. Consolini</a>** (PhD Student, Linguistics, Fall 2019-)
+**<a href="https://www.carlaconsolini.com/" target="_blank">Carla Consolini</a>** (PhD Student, Linguistics, Fall 2019-)
 
 <img src="images/hakyung_bio_pic.jpeg" width="256" title="Hakyung Sung Bio Picture">
 
