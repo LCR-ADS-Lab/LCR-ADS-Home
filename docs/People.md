@@ -20,15 +20,15 @@ title: People
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; padding-right: 20px; text-align: right;">
-    <a href="https://masakieguchi.weebly.com/about-me.html" target="_blank">
+    <a href="https://www.carlaconsolini.com/" target="_blank">
       <div style="height: 200px; width: 200px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
         <img src="images/masaki_2023-edit.jpg" style="height: 100%;">
       </div>
     <br>
-    <strong>Masaki Eguchi</strong>
+    <strong>Carla Consolini</strong>
     <br>
     </a>
-    <span>(PhD Student, Linguistics, Fall 18-)</span>
+    <span>(PhD Student, Linguistics, Fall 19-)</span>
   </div>
   <div style="flex: 1; padding-left: 20px; text-align: left;">
     <a href="https://hksung.github.io/" target="_blank">
@@ -45,15 +45,6 @@ title: People
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 20px; text-align: center;">
     <h3>Undergraduate Student Researchers</h3>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
-        <img src="images/basic.png" style="height: 100%;">
-      </div>
-      <p style="text-align: center;">
-        <strong>Hana Dussan</strong><br>
-        (Annotator, Summer23-)
-      </p>    
-    </div>
     <div style="display: flex; flex-direction: column; align-items: center;">
       <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin-bottom: 10px;">
         <img src="images/bg-edit.jpeg" style="height: 100%;">
@@ -96,12 +87,16 @@ title: People
     <p>
       <strong>Sabine Ricioppo</strong><br>
       (Visiting PhD Std., F19-S20)<br>
+      <strong>María Adsuara Martínez</strong><br>
+      (Visiting PhD Std., Sm23)<br>
       <strong>Chasen Afghani</strong><br>
       (Annotator, W-S19)<br>
       <strong>Charles Baker-Rozell</strong><br>
       (Annotator, S21)<br>
       <strong>Tyler Demmon</strong><br>
       (Annotator, S21)<br>
+      <strong>Hana Dussan</strong><br>
+      (Annotator, S-Sm23)<br>
       <strong>Zoe Haupt</strong><br>
       (Annotator, S21)<br>
       <strong>Stacia Henry</strong><br>
