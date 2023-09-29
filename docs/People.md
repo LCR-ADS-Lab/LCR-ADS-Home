@@ -22,7 +22,7 @@ title: People
   <div style="flex: 1; padding-right: 20px; text-align: right;">
     <a href="https://www.carlaconsolini.com/" target="_blank">
       <div style="height: 200px; width: 200px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
-        <img src="images/masaki_2023-edit.jpg" style="height: 100%;">
+        <img src="images/carla.png" style="height: 100%;">
       </div>
     <br>
     <strong>Carla Consolini</strong>
