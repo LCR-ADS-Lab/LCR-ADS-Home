@@ -78,6 +78,7 @@ title: People
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
     <div style="flex: 1; text-align: left; padding-right: 20px;">
+        <h3>Previous Graduate Students</h3>
         <p>
           <a href="https://masakieguchi.weebly.com/" target="_blank"><strong>Masaki Eguchi</strong></a><br>
           (PhD, F18-S23)<br>
@@ -91,7 +92,7 @@ title: People
           (PhD Std., S23)<br>
         </p>
     </div>
-    <div style="flex: 1; text-align: left; padding-left: 20px;font-size: 0.9em;">">
+    <div style="flex: 1; text-align: left; padding-left: 20px;font-size: 0.8em;">
         <h3>Previous Student Researchers</h3>
         <p>
             <strong>Chasen Afghani</strong><br>
