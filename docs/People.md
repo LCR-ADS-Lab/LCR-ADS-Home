@@ -87,7 +87,7 @@ title: People
                 (PhD, F18-S23)<br>
             </p>
         </div>
-        <div style="text-align: left; font-size: 0.9em">
+        <div style="text-align: left;">
             <h3>Visiting Scholars</h3>
             <p>
                 <strong>Shinchul Hong</strong><br>
