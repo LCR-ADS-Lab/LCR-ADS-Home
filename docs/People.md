@@ -78,7 +78,7 @@ title: People
 <div style="display: flex; justify-content: space-between; width: 100%;">
     <div style="flex: 1; padding-right: 20px;">
         <div style="text-align: center;">
-            <h3>Previous Graduate Students</h3>
+            <h3 style="text-align: left;">Previous Graduate Students</h3>
             <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
                 <img src="images/masaki_2023-edit.jpg" style="height: 100%;">
             </div>
