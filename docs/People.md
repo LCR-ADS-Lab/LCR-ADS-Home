@@ -79,6 +79,9 @@ title: People
 <div style="display: flex; justify-content: space-between; width: 100%;">
     <div style="flex: 1; text-align: left; padding-right: 20px;">
         <h3>Previous Graduate Students</h3>
+        <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
+          <img src="images/masaki_2023-edit.jpg" style="height: 100%;">
+        </div>
         <p>
           <a href="https://masakieguchi.weebly.com/" target="_blank"><strong>Masaki Eguchi</strong></a><br>
           (PhD, F18-S23)<br>
@@ -87,13 +90,13 @@ title: People
         <p><strong>Shinchul Hong</strong><br>
           (Prof, S23-W24)<br>
           <strong>Sabine Ricioppo</strong><br>
-          (PhD Std., F19-S20)<br>
+          (PhD, F19-S20)<br>
           <strong>María Adsuara Martínez</strong><br>
-          (PhD Std., S23)<br>
+          (PhD, S23)<br>
         </p>
     </div>
     <div style="flex: 1; text-align: left; padding-left: 20px;font-size: 0.8em;">
-        <h3>Previous Student Researchers</h3>
+        <h3 style="font-size: 1.1em;">Previous Student Researchers</h3>
         <p>
             <strong>Chasen Afghani</strong><br>
             (Annotator, W-S19)<br>
