@@ -91,11 +91,14 @@ title: People
             <h3>Visiting Scholars</h3>
             <p>
                 <strong>Shinchul Hong</strong><br>
-                (Prof, S23-W24)<br>
-                <strong>Sabine Ricioppo</strong><br>
-                (PhD, F19-S20)<br>
+                (Prof., S23-W24)<br>
+            </p>
+            <h3>Visiting Students</h3>
+            </p>
                 <strong>María Adsuara Martínez</strong><br>
-                (PhD, S23)<br>
+                (PhD., S23)<br>
+                <strong>Sabine Ricioppo</strong><br>
+                (PhD., F19-S20)<br>
             </p>
         </div>
     </div>
