@@ -79,13 +79,16 @@ title: People
 <div style="display: flex; justify-content: space-between; width: 100%;">
     <div style="flex: 1; text-align: left; padding-right: 20px;">
         <h3>Visiting Scholars</h3>
-        <p><strong>Shinchul Hong</strong><br>(Spring 2023-Winter 2024)</p>
+        <p><strong>Shinchul Hong</strong><br>(S23-W24)</p>
+        <h3>Previous Graduate Students</h3>
+        <p>
+          <a href="https://masakieguchi.weebly.com/" target="_blank"><strong>Masaki Eguchi</strong></a><br>
+          (PhD, F18-S23)<br>
+        </p>
     </div>
-    <div style="flex: 1; text-align: left; padding-left: 20px;">
+    <div style="flex: 1.5; text-align: left; padding-left: 20px;">
         <h3>Previous Student Researchers</h3>
         <p>
-            <a href="https://masakieguchi.weebly.com/" target="_blank"><strong>Masaki Eguchi</strong></a><br>
-            (PhD, F18-S23)<br>
             <strong>Sabine Ricioppo</strong><br>
             (Visiting PhD Std., F19-S20)<br>
             <strong>María Adsuara Martínez</strong><br>
