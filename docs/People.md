@@ -43,38 +43,6 @@ title: People
   </div>
 </div>
 
-### Undergraduate Student Researchers
-
-<div style="display: flex; flex-direction: column; gap: 20px;">
-    <div style="display: flex; justify-content: center; gap: 20px;">
-        <div style="flex: 1; text-align: center;">
-            <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
-                <img src="images/bg-edit.jpeg" style="height: 100%;">
-            </div>
-            <p><strong>Bella Graham</strong><br>(Annotator, Summer23-)</p>
-        </div>
-        <div style="flex: 1; text-align: center;">
-            <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
-                <img src="images/mh-edit.png" style="height: 100%;">
-            </div>
-            <p><strong>Marianne Hatley</strong><br>(Annotator, Summer23-)</p>
-        </div>
-    </div>
-    <div style="display: flex; justify-content: center; gap: 20px;">
-        <div style="flex: 1; text-align: center;">
-            <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
-                <img src="images/holly.jpg" style="height: 100%;">
-            </div>
-            <p><strong>Holly Renshaw</strong><br>(Annotator, Spring23-)</p>
-        </div>
-        <div style="flex: 1; text-align: center;">
-            <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
-                <img src="images/ryan.jpg" style="height: 100%;">
-            </div>
-            <p><strong>Ryan Walker</strong><br>(Annotator, Winter23-)</p>
-        </div>
-    </div>
-</div>
 <div style="display: flex; justify-content: space-between; width: 100%;">
     <div style="flex: 1; padding-right: 20px;">
         <div style="text-align: center;">
@@ -96,9 +64,9 @@ title: People
             <h3>Visiting Students</h3>
             <p>
                 <strong>María Adsuara Martínez</strong><br>
-                (PhD., S23)<br>
+                (PhD Student, S23)<br>
                 <strong>Sabine Ricioppo</strong><br>
-                (PhD., F19-S20)<br>
+                (PhD Student, F19-S20)<br>
             </p>
         </div>
     </div>
@@ -112,6 +80,10 @@ title: People
             <strong>Tyler Demmon</strong><br>
             (Annotator, S21)<br>
             <strong>Hana Dussan</strong><br>
+            (Annotator, S23)<br>
+            <strong>Bella Graham</strong><br>
+            (Annotator, S23)<br>
+            <strong>Marianne Hatley</strong><br>
             (Annotator, S23)<br>
             <strong>Zoe Haupt</strong><br>
             (Annotator, S21)<br>
@@ -127,10 +99,14 @@ title: People
             (Annotator, S23)<br>
             <strong>Lilly Pool</strong><br>
             (Transcriber, W-S19)<br>
+            <strong>Holly Renshaw</strong><br>
+            (Annotator, S23-F23)<br>
             <strong>Ted Sither</strong><br>
             (Annotator, W19-S22)<br>
             <strong>Grace Teuscher</strong><br> 
             (Annotator, W-S19)<br>
+            <strong>Ryan Walker</strong><br>
+            (Annotator, W23-F23)<br>
             <strong>Claire Worthington</strong><br> 
             (Annotator, S21)<br>
         </p>
