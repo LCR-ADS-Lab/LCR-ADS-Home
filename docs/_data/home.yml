@@ -6,39 +6,42 @@ navbar_entries:
     url: Grant Funded Projects
 
 project_entries:
+  - title: TAALES_ES (2023)
+    url: https://github.com/LCR-ADS-Lab/TAALES_ES
+    desc: This repository includes the code for the Spanish Version of TAALES.
+
+  - title: ASC-Treebank (2023)
+    url: https://github.com/LCR-ADS-Lab/ASC-Treebank
+    desc: This repository includes the Argument Structure Construction (ASC) Treebank.
+
+  - title: SL2E-Dependency-Treebank (2022)
+    url: https://github.com/LCR-ADS-Lab/SL2E-Dependency-Treebank
+    desc: This repository includes the Dependency Treebank of Spoken L2 English (SL2E).    
+
   - title: TAALED (2022)
     url: https://github.com/LCR-ADS-Lab/TAALED
     desc: This repository includes the automatic assessment of lexical diversity.
     target: _blank
 
-  - title: SL2E-Dependency-Treebank (2022)
-    url: https://github.com/LCR-ADS-Lab/SL2E-Dependency-Treebank
-    desc: This repository includes the Dependency Treebank of Spoken L2 English (SL2E).
+
     
-  - title: ASC-Treebank (2023)
-    url: https://github.com/LCR-ADS-Lab/ASC-Treebank
-    desc: This repository includes the Argument Structure Construction (ASC) Treebank.
-
-  - title: TAALES_ES (2023)
-    url: https://github.com/LCR-ADS-Lab/TAALES_ES
-    desc: This repository includes the code for the Spanish Version of TAALES.
-
 old_project_entries:
-  - title: A Dependency Treebank of Spoken Second Language English (2022)
-    url: https://aclanthology.org/2022.bea-1.7.pdf
-    desc: In <i>Proceedings of the 17th Workshop on Innovative Use of NLP for Building Educational Applications</i>
-
-  - title: An Argument Structure Construction Treebank (2023)
-    url: https://aclanthology.org/2023.cxgsnlp-1.7.pdf
-    desc: In <i>Proceedings of the First International Workshop on Construction Grammars and NLP (CxGs+NLP, GURT/SyntaxFest 2023)</i>
+  - title: Measuring the development of lexical richness of L2 Spanish (A longitudinal learner corpus study) (2023)
+    url: https://doi.org/10.1017/S0272263123000384
+    desc: In <i>Studies in Second Language Acquisition (Research Article)</i>
 
   - title: Evaluating Evidence for the Reliability and Validity of Lexical Diversity Indices in L2 Oral Task Responses (2023)
     url: https://doi.org/10.1017/S0272263123000402
     desc: In <i>Studies in Second Language Acquisition (Methods Forum)</i>
 
-  - title: Measuring the development of lexical richness of L2 Spanish (A longitudinal learner corpus study) (2023)
-    url: https://doi.org/10.1017/S0272263123000384
-    desc: In <i>Studies in Second Language Acquisition (Research Article)</i>
+  - title: An Argument Structure Construction Treebank (2023)
+    url: https://aclanthology.org/2023.cxgsnlp-1.7.pdf
+    desc: In <i>Proceedings of the First International Workshop on Construction Grammars and NLP (CxGs+NLP, GURT/SyntaxFest 2023)</i>
+
+  - title: A Dependency Treebank of Spoken Second Language English (2022)
+    url: https://aclanthology.org/2022.bea-1.7.pdf
+    desc: In <i>Proceedings of the 17th Workshop on Innovative Use of NLP for Building Educational Applications</i>
+
     
 footer_entries:
   - title: Maintained by <a href="https://github.com/LCR-ADS-Lab" target="_blank"> LCR-ADS-Lab</a>, University of Oregon
