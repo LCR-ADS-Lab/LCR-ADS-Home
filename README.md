@@ -42,26 +42,23 @@ We develop (often in collaboration with other labs) and maintain a range of ling
 
 **<a href="https://masakieguchi.weebly.com/about-me.html" target="_blank">Masaki Eguchi</a>** (Fall 2018-2023) (Research Assistant Professor at Waseda University) 
 
-
-### Undergraduate Student Researchers:
-**Bella Graham** (Annotator, Summer23-)  
-**Marianne Hatley** (Annotator, Summer23-)  
-**Holly Renshaw** (Annotator, Spring23-)  
-**Ryan Walker** (Annotator, Winter23-)  
-
 ### Previous Student Researchers:
-**Sabine Ricioppo** (Visiting PhD Student, Fall 2019-Summer 2020)  
 **María Adsuara Martínez** (Visiting PhD Student, Summer 2023)  
+**Sabine Ricioppo** (Visiting PhD Student, Fall 2019-Summer 2020)  
 **Chasen Afghani** (Annotator, Winter-Summer 2019)  
 **Charles Baker-Rozell** (Annotator, Spring 2021)  
 **Tyler Demmon** (Annotator, Spring 2021)  
 **Hana Dussan** (Annotator, Summer 2023)  
+**Bella Graham** (Annotator, Summer23)  
+**Marianne Hatley** (Annotator, Summer23)  
 **Zoe Haupt** (Annotator, Spring 2021)  
 **Stacia Henry** (Transcriber, Winter 2019)  
 **Reed Jordan** (Annotator, Winter-Summer 2019)  
 **Yancee Larson** (Transcriber, Winter-Summer 2019)  
 **<a href="https://amille929.github.io" target="_blank">Aaron Miller** (Annotator, Spring21-Winter23)  
 **Lilly Pool** (Transcriber, Winter-Summer 2019)  
+**Holly Renshaw** (Annotator, Spring23-Fall23)  
 **Ted Sither** (Annotator, Winter 2019-Spring 2022)  
 **Grace Teuscher** (Annotator, Winter-Summer 2019)  
+**Ryan Walker** (Annotator, Winter23-Fall23)  
 **Claire Worthington** (Annotator, Spring 2021)  
