@@ -20,7 +20,7 @@ project_entries:
 
   - title: TAALED (2022)
     url: https://github.com/LCR-ADS-Lab/TAALED
-    desc: This repository includes the automatic assessment of lexical diversity.
+    desc: This repository includes the tool for automatic assessment of lexical diversity.
     target: _blank
 
 
