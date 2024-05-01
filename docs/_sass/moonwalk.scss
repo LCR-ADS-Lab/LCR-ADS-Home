@@ -65,14 +65,14 @@ img {
 }
 html {
     --bg: #FFF;
-    --bg-secondary: #3D4849;
+    --bg-secondary: #d1f4e7;
     --headings: #007030;
     --text: #374151;
     --text-secondary: #6b7280;
     --links: #4D5859;
     --highlight: #2c3139; // changed
     --code-text: #2c3139;
-    --share-text: #ace1ce;
+    --share-text: #d1f4e7;
 }
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
