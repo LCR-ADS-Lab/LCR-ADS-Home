@@ -70,9 +70,9 @@ html {
     --text: #374151;
     --text-secondary: #6b7280;
     --links: #4D5859;
-    --highlight: #FEE11A; // light yellow
-    --code-text: #fff200;
-    --share-text: #999;
+    --highlight: #2c3139; // changed
+    --code-text: #2c3139;
+    --share-text: #ace1ce;
 }
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {

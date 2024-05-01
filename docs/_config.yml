@@ -30,9 +30,9 @@ theme_config:
   show_tags: false # show tags in a blog posts
   # options for "home" page
   home:
-    title_projects: Projects
-    title_old_projects: Recently published
-    title_misc_list: What we do
+    title_old_projects: Recently Published
+    title_projects: Project Repositories  
+    title_misc_list: Ongoing Projects
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options

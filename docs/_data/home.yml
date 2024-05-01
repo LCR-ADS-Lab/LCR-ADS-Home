@@ -38,20 +38,16 @@ project_entries:
 
   - title: ASC-Treebank (2023)
     url: https://github.com/LCR-ADS-Lab/ASC-Treebank
-    desc: This repository includes the Argument Structure Construction (ASC) Treebank.
+    desc: This repository includes the argument structure construction (ASC) Treebank.
 
   - title: SL2E-Dependency-Treebank (2022)
     url: https://github.com/LCR-ADS-Lab/SL2E-Dependency-Treebank
-    desc: This repository includes the Dependency Treebank of Spoken L2 English (SL2E).    
+    desc: This repository includes the dependency treebank of spoken L2 English (SL2E).    
 
   - title: TAALED (2022)
     url: https://github.com/LCR-ADS-Lab/TAALED
     desc: This repository includes the tool for automatic assessment of lexical diversity.
     target: _blank
-
-footer_entries:
-  - title: Maintained by <a href="https://github.com/LCR-ADS-Lab" target="_blank"> LCR-ADS-Lab</a>, University of Oregon
-    url: false
 
 misc_entries:
   - title: We are using our argument structure construction (ASC) annotation tool to explore how the use of ASC characteristics (e.g., the strength of association between a verb and the ASC it employs) correlates with proficiency in second language writing and speaking.
@@ -62,3 +58,7 @@ misc_entries:
 
   - title: We are nearly finished drafting our second report on POS tagging and dependency parsing for L1 and L2 texts that represent both spoken and written registers.
     url: false      
+
+footer_entries:
+  - title: Maintained by <a href="https://github.com/LCR-ADS-Lab" target="_blank"> LCR-ADS-Lab</a>, University of Oregon
+    url: false
