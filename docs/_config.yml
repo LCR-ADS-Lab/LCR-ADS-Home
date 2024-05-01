@@ -30,8 +30,8 @@ theme_config:
   show_tags: false # show tags in a blog posts
   # options for "home" page
   home:
-    title_old_projects: Recently Published
-    title_projects: Project Repositories  
+    title_old_projects: Project Repositories 
+    title_projects: Recently Published 
     title_misc_list: Ongoing Projects
 
 soopr:

@@ -5,8 +5,7 @@ navbar_entries:
   - title: Grant Funded Projects
     url: Grant Funded Projects
 
-
-old_project_entries:
+project_entries:
   - title: Annotation Scheme for English Argument Structure Constructions Treebank (2024)
     url: https://aclanthology.org/2024.law-1.2.pdf
     desc: In <i>Proceedings of The 18th Linguistic Annotation Workshop (LAW-XVIII)</i>
@@ -31,7 +30,7 @@ old_project_entries:
     url: https://aclanthology.org/2023.cxgsnlp-1.7.pdf
     desc: In <i>Proceedings of the First International Workshop on Construction Grammars and NLP (CxGs+NLP, GURT/SyntaxFest 2023)</i>
 
-project_entries:
+old_project_entries:
   - title: TAALES_ES (2023)
     url: https://github.com/LCR-ADS-Lab/TAALES_ES
     desc: This repository includes the code for the Spanish Version of TAALES.
