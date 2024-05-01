@@ -45,17 +45,21 @@ title: People
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
     <div style="flex: 1; padding-right: 20px;">
-        <div style="text-align: center;">
-            <h3 style="text-align: left;">Previous Graduate Students</h3>
-            <div style="height: 100px; width: 100px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
-                <img src="images/masaki_2023-edit.jpg" style="height: 100%;">
-            </div>
+        <div style="text-align: left;">
+            <h3>Undergraduate Student Researchers</h3>
+            <p>
+                <strong>Hana Dussan</strong><br>
+                (Annotator, S23, S24)<br>
+                <strong>Augustus Paddock</strong><br>
+                (Annotator, S23, W-S24)<br>                
+                <strong>Ryan Walker</strong><br>
+                (Annotator, W23-F23, S24)<br>                
+            </p>
+            <h3>Previous Graduate Students</h3>
             <p>
                 <a href="https://masakieguchi.weebly.com/" target="_blank"><strong>Masaki Eguchi</strong></a><br>
                 (PhD, F18-S23)<br>
-            </p>
-        </div>
-        <div style="text-align: left;">
+            </p>           
             <h3>Visiting Scholars</h3>
             <p>
                 <strong>Shinchul Hong</strong><br>
@@ -79,8 +83,6 @@ title: People
             (Annotator, S21)<br>
             <strong>Tyler Demmon</strong><br>
             (Annotator, S21)<br>
-            <strong>Hana Dussan</strong><br>
-            (Annotator, S23)<br>
             <strong>Bella Graham</strong><br>
             (Annotator, S23)<br>
             <strong>Marianne Hatley</strong><br>
@@ -95,8 +97,6 @@ title: People
             (Transcriber, W-S19)<br>
             <strong><a href="https://amille929.github.io" target="_blank">Aaron Miller</a></strong><br>
             (Annotator, S21-W23)<br>
-            <strong>Augustus Paddock</strong><br>
-            (Annotator, S23)<br>
             <strong>Lilly Pool</strong><br>
             (Transcriber, W-S19)<br>
             <strong>Holly Renshaw</strong><br>
@@ -105,8 +105,6 @@ title: People
             (Annotator, W19-S22)<br>
             <strong>Grace Teuscher</strong><br> 
             (Annotator, W-S19)<br>
-            <strong>Ryan Walker</strong><br>
-            (Annotator, W23-F23)<br>
             <strong>Claire Worthington</strong><br> 
             (Annotator, S21)<br>
         </p>

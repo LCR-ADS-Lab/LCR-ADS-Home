@@ -23,9 +23,12 @@ project_entries:
     desc: This repository includes the tool for automatic assessment of lexical diversity.
     target: _blank
 
-
     
 old_project_entries:
+  - title: Annotation Scheme for English Argument Structure Constructions Treebank (2024)
+    url: https://aclanthology.org/2024.law-1.2.pdf
+    desc: In <i>Proceedings of The 18th Linguistic Annotation Workshop (LAW-XVIII)</i>
+
   - title: Measuring the development of lexical richness of L2 Spanish (A longitudinal learner corpus study) (2023)
     url: https://doi.org/10.1017/S0272263123000384
     desc: In <i>Studies in Second Language Acquisition (Research Article)</i>
@@ -48,9 +51,11 @@ footer_entries:
     url: false
 
 misc_entries:
-  - title: We are currently developing a number of <b>web applications</b> for text analysis.
+  - title: We are using our argument structure construction (ASC) annotation tool to explore how the use of ASC characteristics (e.g., the strength of association between a verb and the ASC it employs) correlates with proficiency in second language writing and speaking.
     url: false
     
-  - title: We develop (often in collaboration with other labs) and maintain a range of <a href="https://www.linguisticanalysistools.org/" target="_blank">linguistic analysis tools</a>.
+  - title: We are currently refining the Lexicogrammatical Tagger (LxGrTgr) and assessing its accuracy across various registers.
     url: false
-      
+
+  - title: We are nearly finished drafting our second report on POS tagging and dependency parsing for L1 and L2 texts that represent both spoken and written registers.
+    url: false      
