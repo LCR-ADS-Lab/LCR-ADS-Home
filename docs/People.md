@@ -48,6 +48,8 @@ title: People
         <div style="text-align: left;">
             <h3>Undergraduate Student Researchers</h3>
             <p>
+                <strong>Jacob Dirkx</strong><br>
+                (Annotator, S24)<br>
                 <strong>Hana Dussan</strong><br>
                 (Annotator, S23, S24)<br>
                 <strong>Augustus Paddock</strong><br>
