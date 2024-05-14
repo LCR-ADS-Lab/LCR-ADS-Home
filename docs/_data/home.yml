@@ -6,6 +6,10 @@ navbar_entries:
     url: Grant Funded Projects
 
 project_entries:
+  - title: The relationship between L2 spanish proficiency and features of written lexical and lexicogrammatical use (2024)
+    url: https://academic.oup.com/applij/advance-article/doi/10.1093/applin/amae032/7660315
+    desc: In <i>Applied Linguistics</i>
+
   - title: Annotation Scheme for English Argument Structure Constructions Treebank (2024)
     url: https://aclanthology.org/2024.law-1.2.pdf
     desc: In <i>Proceedings of The 18th Linguistic Annotation Workshop (LAW-XVIII)</i>
@@ -14,7 +18,7 @@ project_entries:
     url: https://onlinelibrary.wiley.com/doi/pdf/10.1111/modl.12845
     desc: In <i>The Modern Language Journal</i>
 
-  - title: Span Identification of Epistemic Stance-Taking in Academic Written English (2023)
+  - title: Span identification of epistemic stance-taking in academic written english (2023)
     url: https://aclanthology.org/2023.bea-1.35.pdf
     desc: In <i>Proceedings the 18th Workshop on Innovative Use of NLP for Building Educational Applications</i>
 
@@ -22,13 +26,9 @@ project_entries:
     url: https://doi.org/10.1017/S0272263123000384
     desc: In <i>Studies in Second Language Acquisition (Research Article)</i>
 
-  - title: Evaluating Evidence for the Reliability and Validity of Lexical Diversity Indices in L2 Oral Task Responses (2023)
+  - title: Evaluating evidence for the reliability and validity of lexical diversity indices in L2 oral task responses (2023)
     url: https://doi.org/10.1017/S0272263123000402
     desc: In <i>Studies in Second Language Acquisition (Methods Forum)</i>
-
-  - title: An Argument Structure Construction Treebank (2023)
-    url: https://aclanthology.org/2023.cxgsnlp-1.7.pdf
-    desc: In <i>Proceedings of the First International Workshop on Construction Grammars and NLP (CxGs+NLP, GURT/SyntaxFest 2023)</i>
 
 old_project_entries:
   - title: TAALES_ES (2023)
