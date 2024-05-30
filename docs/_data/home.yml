@@ -6,6 +6,10 @@ navbar_entries:
     url: Grant Funded Projects
 
 project_entries:
+  - title: Evaluating NLP models with written and spoken L2 samples (2024)
+    url: https://www.sciencedirect.com/science/article/abs/pii/S2772766124000260
+    desc: In <i>Research Methods in Applied Linguistics</i>
+
   - title: The relationship between L2 spanish proficiency and features of written lexical and lexicogrammatical use (2024)
     url: https://academic.oup.com/applij/advance-article/doi/10.1093/applin/amae032/7660315
     desc: In <i>Applied Linguistics</i>
@@ -26,11 +30,12 @@ project_entries:
     url: https://doi.org/10.1017/S0272263123000384
     desc: In <i>Studies in Second Language Acquisition (Research Article)</i>
 
-  - title: Evaluating evidence for the reliability and validity of lexical diversity indices in L2 oral task responses (2023)
-    url: https://doi.org/10.1017/S0272263123000402
-    desc: In <i>Studies in Second Language Acquisition (Methods Forum)</i>
 
 old_project_entries:
+  - title: LxGrTagger-Documentation (2024-)
+    url: https://lcr-ads-lab.github.io/LxGrTagger-Documentation/
+    desc: This documentation page provides detailed descriptions of the ongoing project aimed at refining the Lexicogrammatical Tagger (LxGrTgr).
+
   - title: TAALES_ES (2023)
     url: https://github.com/LCR-ADS-Lab/TAALES_ES
     desc: This repository includes the code for the Spanish Version of TAALES.
