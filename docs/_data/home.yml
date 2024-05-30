@@ -32,7 +32,7 @@ project_entries:
 
 
 old_project_entries:
-  - title: LxGrTagger-Documentation (2024-)
+  - title: LxGrTagger-Doc (2024-)
     url: https://lcr-ads-lab.github.io/LxGrTagger-Documentation/
     desc: This documentation page provides detailed descriptions of the ongoing project aimed at refining the Lexicogrammatical Tagger (LxGrTgr).
 
