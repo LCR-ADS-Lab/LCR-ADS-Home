@@ -6,7 +6,7 @@ navbar_entries:
     url: Grant Funded Projects
 
 project_entries:
-  - title: Building custom NLP tools to annotate discourse-functional features for second language writing research: A tutorial (2024)
+  - title: Building custom NLP tools to annotate discourse-functional features for second language writing research (A tutorial) (2024)
     url: https://www.sciencedirect.com/science/article/pii/S2772766124000594
     desc: In <i>Research Methods in Applied Linguistics</i>
 
