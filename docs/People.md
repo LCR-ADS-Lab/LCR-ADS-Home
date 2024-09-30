@@ -18,11 +18,11 @@ title: People
 
 ### Graduate Student Researchers
 
-<div style="display: flex; justify-content: flex-start; align-items: flex-start;">
-  <div style="width: 150px; text-align: center; margin-right: 40px;">
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; padding-right: 20px; text-align: center;">
     <a href="https://www.carlaconsolini.com/" target="_blank">
       <div style="height: 125px; width: 125px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
-        <img src="images/carla.png" style="height: 100%; width: 100%; object-fit: cover;">
+        <img src="images/carla.png" style="height: 100%;">
       </div>
     <br>
     <strong>Carla Consolini</strong>
@@ -30,10 +30,10 @@ title: People
     </a>
     <span>(PhD Student, Linguistics, Fall19-)</span>
   </div>
-  <div style="width: 150px; text-align: center; margin-right: 40px;">
+  <div style="flex: 1; padding-left: 20px; text-align: center;">
     <a href="https://hksung.github.io/" target="_blank">
       <div style="height: 125px; width: 125px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
-        <img src="images/HS-pic.jpeg" style="height: 100%; width: 100%; object-fit: cover;">
+        <img src="images/HS-pic.jpeg" style="height: 100%;">
       </div>
     <br>
     <strong>Hakyung Sung</strong>
@@ -42,15 +42,24 @@ title: People
     <span>(PhD Student, Linguistics, Fall21-)</span>
   </div>
 </div>
-<div style="display: flex; justify-content: flex-start; align-items: flex-start; margin-top: 20px;">
-  <div style="width: 150px; text-align: center;">
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+<div style="display: flex; justify-content: flex-start; margin-top: 20px;">
+  <div style="flex: 1; padding-right: 20px; text-align: center;">
       <div style="height: 125px; width: 125px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
-        <img src="images/ZR.jpg" style="height: 100%; width: 100%; object-fit: cover;">
+        <img src="images/ZR.jpg" style="height: 100%;">
       </div>
     <br>
     <strong>Zeinab Rahimi</strong>
     <br>
     <span>(PhD Student, Linguistics, Fall24-)</span>
+  </div>
+  <div style="flex: 1; padding-left: 20px; text-align: center;">
+      <div style="height: 125px; width: 125px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
+      </div>
+    <br>
+    <strong> </strong>
+    <br>
+    <span> </span>
   </div>
 </div>
 
