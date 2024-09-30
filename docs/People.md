@@ -42,7 +42,7 @@ title: People
     <span>(PhD Student, Linguistics, Fall21-)</span>
   </div>
 </div>
-<div style="display: flex; justify-content: center; margin-top: 20px;">
+<div style="display: flex; justify-content: flex-start; margin-top: 20px;">
   <div style="flex: 1; padding-right: 20px; text-align: center;">
       <div style="height: 125px; width: 125px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
         <img src="images/ZR.jpg" style="height: 100%;">
