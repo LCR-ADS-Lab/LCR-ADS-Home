@@ -6,23 +6,24 @@ title: People
 ### Director
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <div style="height: 230px; width: 230px; overflow: hidden; border-radius: 50%;">
-    <img src="images/Kyle_Bio.jpg" style="height: 100%;">
-  </div>
+  <a href="https://kristopherkyle.github.io/professional-webpage/" target="_blank">
+    <div style="height: 230px; width: 230px; overflow: hidden; border-radius: 50%;">
+      <img src="images/Kyle_Bio.jpg" style="height: 100%;">
+    </div>
   <p style="text-align: center;">
-    <a href="https://kristopherkyle.github.io/professional-webpage/" target="_blank">
       <strong>Kristopher Kyle</strong>
-    </a><br>(Associate Professor, Linguistics Department)
+    </a><br>(Associate Professor, Linguistics)
   </p>
 </div>
 
 ### Graduate Student Researchers
 
-<div style="display: flex; justify-content: center;">
-  <div style="flex: 1; padding-right: 20px; text-align: center;">
+<div style="display: flex; justify-content: flex-start; align-items: flex-start;">
+  <!-- Carla Consolini -->
+  <div style="width: 150px; text-align: center; margin-right: 40px;">
     <a href="https://www.carlaconsolini.com/" target="_blank">
       <div style="height: 125px; width: 125px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
-        <img src="images/carla.png" style="height: 100%;">
+        <img src="images/carla.png" style="height: 100%; width: 100%; object-fit: cover;">
       </div>
     <br>
     <strong>Carla Consolini</strong>
@@ -30,10 +31,12 @@ title: People
     </a>
     <span>(PhD Student, Linguistics, Fall19-)</span>
   </div>
-  <div style="flex: 1; padding-left: 20px; text-align: center;">
+
+  <!-- Hakyung Sung -->
+  <div style="width: 150px; text-align: center; margin-right: 40px;">
     <a href="https://hksung.github.io/" target="_blank">
       <div style="height: 125px; width: 125px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
-        <img src="images/HS-pic.jpeg" style="height: 100%;">
+        <img src="images/HS-pic.jpeg" style="height: 100%; width: 100%; object-fit: cover;">
       </div>
     <br>
     <strong>Hakyung Sung</strong>
@@ -42,10 +45,12 @@ title: People
     <span>(PhD Student, Linguistics, Fall21-)</span>
   </div>
 </div>
-<div style="display: flex; justify-content: flex-start; margin-top: 20px;">
-  <div style="flex: 1; padding-right: 20px; text-align: center;">
+
+<div style="display: flex; justify-content: flex-start; align-items: flex-start; margin-top: 20px;">
+  <!-- Zeinab Rahimi -->
+  <div style="width: 150px; text-align: center;">
       <div style="height: 125px; width: 125px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
-        <img src="images/ZR.jpg" style="height: 100%;">
+        <img src="images/ZR.jpg" style="height: 100%; width: 100%; object-fit: cover;">
       </div>
     <br>
     <strong>Zeinab Rahimi</strong>
@@ -53,6 +58,7 @@ title: People
     <span>(PhD Student, Linguistics, Fall24-)</span>
   </div>
 </div>
+
 
 ### Visiting Scholar and Student
 

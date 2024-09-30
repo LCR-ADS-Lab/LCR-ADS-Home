@@ -6,6 +6,10 @@ navbar_entries:
     url: Grant Funded Projects
 
 project_entries:
+  - title: Building custom NLP tools to annotate discourse-functional features for second language writing research: A tutorial (2024)
+    url: https://www.sciencedirect.com/science/article/pii/S2772766124000594
+    desc: In <i>Research Methods in Applied Linguistics</i>
+
   - title: Evaluating NLP models with written and spoken L2 samples (2024)
     url: https://www.sciencedirect.com/science/article/abs/pii/S2772766124000260
     desc: In <i>Research Methods in Applied Linguistics</i>
@@ -25,10 +29,6 @@ project_entries:
   - title: Span identification of epistemic stance-taking in academic written english (2023)
     url: https://aclanthology.org/2023.bea-1.35.pdf
     desc: In <i>Proceedings the 18th Workshop on Innovative Use of NLP for Building Educational Applications</i>
-
-  - title: Measuring the development of lexical richness of L2 Spanish (A longitudinal learner corpus study) (2023)
-    url: https://doi.org/10.1017/S0272263123000384
-    desc: In <i>Studies in Second Language Acquisition (Research Article)</i>
 
 
 old_project_entries:
@@ -59,9 +59,6 @@ misc_entries:
     
   - title: We are currently refining the Lexicogrammatical Tagger (LxGrTgr) and assessing its accuracy across various registers.
     url: false
-
-  - title: We are nearly finished drafting our second report on POS tagging and dependency parsing for L1 and L2 texts that represent both spoken and written registers.
-    url: false      
 
 footer_entries:
   - title: Maintained by <a href="https://github.com/LCR-ADS-Lab" target="_blank"> LCR-ADS-Lab</a>, University of Oregon
