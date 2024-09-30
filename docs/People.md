@@ -42,6 +42,44 @@ title: People
     <span>(PhD Student, Linguistics, Fall21-)</span>
   </div>
 </div>
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <div style="flex: 1; padding-right: 20px; text-align: center;">
+      <div style="height: 125px; width: 125px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
+        <img src="images/ZR.jpg" style="height: 100%;">
+      </div>
+    <br>
+    <strong>Zeinab Rahimi</strong>
+    <br>
+    </a>
+    <span>(PhD Student, Linguistics, Fall24-)</span>
+  </div>
+</div>
+
+### Visiting Scholar and Student
+
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; padding-right: 20px; text-align: center;">
+    <a href="https://sites.google.com/ginue.ac.kr/mcsung/cv" target="_blank">
+      <div style="height: 125px; width: 125px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
+        <img src="images/MC.jpg" style="height: 100%;">
+      </div>
+    <br>
+    <strong>Min-Chang Sung</strong>
+    <br>
+    </a>
+    <span>(Associate Prof. from <em>Gyeongin National University of Education</em>, F24-S25)</span>
+  </div>
+  <div style="flex: 1; padding-left: 20px; text-align: center;">
+      <div style="height: 125px; width: 125px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
+        <img src="images/KC.jpg" style="height: 100%;">
+      </div>
+    <br>
+    <strong>Karla Csuros</strong>
+    <br>
+    </a>      
+    <span>(PhD Student from <em>West University of Timisoara</em>, F24-S25)</span>
+  </div>
+</div>
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
     <div style="flex: 1; padding-right: 20px;">
@@ -51,9 +89,7 @@ title: People
                 <strong>Jacob Dirkx</strong><br>
                 (Annotator, S24)<br>
                 <strong>Hana Dussan</strong><br>
-                (Annotator, S23, S24)<br>
-                <strong>Augustus Paddock</strong><br>
-                (Annotator, S23, W-S24)<br>                
+                (Annotator, S23, S24)<br>             
                 <strong>Ryan Walker</strong><br>
                 (Annotator, W23-F23, S24)<br>                
             </p>
@@ -62,12 +98,12 @@ title: People
                 <a href="https://masakieguchi.weebly.com/" target="_blank"><strong>Masaki Eguchi</strong></a><br>
                 (PhD, F18-S23)<br>
             </p>           
-            <h3>Visiting Scholars</h3>
+            <h3>Previous Visiting Scholars</h3>
             <p>
                 <strong>Shinchul Hong</strong><br>
                 (Prof., S23-W24)<br>
             </p>
-            <h3>Visiting Students</h3>
+            <h3>Previous Visiting Students</h3>
             <p>
                 <strong>María Adsuara Martínez</strong><br>
                 (PhD Student, S23)<br>
@@ -99,6 +135,8 @@ title: People
             (Transcriber, W-S19)<br>
             <strong><a href="https://amille929.github.io" target="_blank">Aaron Miller</a></strong><br>
             (Annotator, S21-W23)<br>
+            <strong>Augustus Paddock</strong><br>
+            (Annotator, S23, W-S24)<br>   
             <strong>Lilly Pool</strong><br>
             (Transcriber, W-S19)<br>
             <strong>Holly Renshaw</strong><br>
