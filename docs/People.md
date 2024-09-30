@@ -6,14 +6,17 @@ title: People
 ### Director
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <a href="https://kristopherkyle.github.io/professional-webpage/" target="_blank">
+  <a href="https://kristopherkyle.github.io/professional-webpage/" target="_blank" style="text-decoration: none; color: inherit;">
     <div style="height: 230px; width: 230px; overflow: hidden; border-radius: 50%;">
-      <img src="images/Kyle_Bio.jpg" style="height: 100%;">
+      <img src="images/Kyle_Bio.jpg" style="height: 100%; width: 100%; object-fit: cover;">
     </div>
-  <p style="text-align: center;">
+    <br>
+    <p style="text-align: center; margin: 0;">
       <strong>Kristopher Kyle</strong>
-    </a><br>(Associate Professor, Linguistics)
-  </p>
+      <br>
+      <span>(Associate Professor, Linguistics)</span>
+    </p>
+  </a>
 </div>
 
 ### Graduate Student Researchers
@@ -42,11 +45,12 @@ title: People
     <span>(PhD Student, Linguistics, Fall21-)</span>
   </div>
 </div>
-<div style="display: flex; justify-content: center; margin-top: 20px;">
+<!-- Zeinab Rahimi Row with Placeholder for Alignment -->
 <div style="display: flex; justify-content: flex-start; margin-top: 20px;">
+  <!-- Zeinab Rahimi -->
   <div style="flex: 1; padding-right: 20px; text-align: center;">
       <div style="height: 125px; width: 125px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
-        <img src="images/ZR.jpg" style="height: 100%;">
+        <img src="images/ZR.jpg" style="height: 100%; width: 100%; object-fit: cover;">
       </div>
     <br>
     <strong>Zeinab Rahimi</strong>
