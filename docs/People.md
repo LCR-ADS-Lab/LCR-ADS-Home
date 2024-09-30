@@ -19,7 +19,6 @@ title: People
 ### Graduate Student Researchers
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
-  <!-- Carla Consolini -->
   <div style="width: 150px; text-align: center; margin-right: 40px;">
     <a href="https://www.carlaconsolini.com/" target="_blank">
       <div style="height: 125px; width: 125px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
@@ -31,8 +30,6 @@ title: People
     </a>
     <span>(PhD Student, Linguistics, Fall19-)</span>
   </div>
-
-  <!-- Hakyung Sung -->
   <div style="width: 150px; text-align: center; margin-right: 40px;">
     <a href="https://hksung.github.io/" target="_blank">
       <div style="height: 125px; width: 125px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
@@ -45,9 +42,7 @@ title: People
     <span>(PhD Student, Linguistics, Fall21-)</span>
   </div>
 </div>
-
 <div style="display: flex; justify-content: flex-start; align-items: flex-start; margin-top: 20px;">
-  <!-- Zeinab Rahimi -->
   <div style="width: 150px; text-align: center;">
       <div style="height: 125px; width: 125px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
         <img src="images/ZR.jpg" style="height: 100%; width: 100%; object-fit: cover;">
