@@ -33,7 +33,7 @@ title: People
   <div style="flex: 1; padding-left: 20px; text-align: center;">
     <a href="https://hksung.github.io/" target="_blank">
       <div style="height: 125px; width: 125px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
-        <img src="images/hakyung_bio_pic.jpeg" style="height: 100%;">
+        <img src="images/HS-pic.jpeg" style="height: 100%;">
       </div>
     <br>
     <strong>Hakyung Sung</strong>
@@ -50,7 +50,6 @@ title: People
     <br>
     <strong>Zeinab Rahimi</strong>
     <br>
-    </a>
     <span>(PhD Student, Linguistics, Fall24-)</span>
   </div>
 </div>
@@ -75,8 +74,7 @@ title: People
       </div>
     <br>
     <strong>Karla Csuros</strong>
-    <br>
-    </a>      
+    <br>   
     <span>(PhD Student from <em>West University of Timisoara</em>, F24-S25)</span>
   </div>
 </div>
