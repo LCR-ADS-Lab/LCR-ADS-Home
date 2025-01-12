@@ -99,11 +99,8 @@ title: People
             <h3>Undergraduate Student Researchers</h3>
             <p>
                 <strong>Jacob Dirkx</strong><br>
-                (Annotator, S24)<br>
-                <strong>Hana Dussan</strong><br>
-                (Annotator, S23, S24)<br>             
-                <strong>Ryan Walker</strong><br>
-                (Annotator, W23-F23, S24)<br>                
+                (Annotator, S24-F25)<br>
+                (Research Assistant,W25)            
             </p>
             <h3>Previous Graduate Students</h3>
             <p>
@@ -133,6 +130,8 @@ title: People
             (Annotator, S21)<br>
             <strong>Tyler Demmon</strong><br>
             (Annotator, S21)<br>
+            <strong>Hana Dussan</strong><br>
+            (Annotator, S23, S24)<br>
             <strong>Bella Graham</strong><br>
             (Annotator, S23)<br>
             <strong>Marianne Hatley</strong><br>
@@ -157,6 +156,8 @@ title: People
             (Annotator, W19-S22)<br>
             <strong>Grace Teuscher</strong><br> 
             (Annotator, W-S19)<br>
+            <strong>Ryan Walker</strong><br>
+            (Annotator, W23-F23, S24)<br> 
             <strong>Claire Worthington</strong><br> 
             (Annotator, S21)<br>
         </p>
