@@ -99,8 +99,7 @@ title: People
             <h3>Undergraduate Student Researchers</h3>
             <p>
                 <strong>Jacob Dirkx</strong><br>
-                (Annotator, S24-F25)<br>
-                (Research Assistant,W25)            
+                (Annotator, S-F24; Research Assistant,W25)<br>          
             </p>
             <h3>Previous Graduate Students</h3>
             <p>
