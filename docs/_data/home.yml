@@ -6,7 +6,7 @@ navbar_entries:
     url: Grant Funded Projects
 
 project_entries:
- - title: Leveraging pre-trained language models for linguistic analysis (A case of argument structure constructions) (2024)
+  - title: Leveraging pre-trained language models for linguistic analysis (A case of argument structure constructions) (2024)
     url: https://aclanthology.org/2024.emnlp-main.415/
     desc: In <i>EMNLP</i>
 
@@ -29,7 +29,6 @@ project_entries:
   - title: Assessing spoken lexical and lexicogrammatical proficiency using features of word, bigram, and dependency bigram use (2023)
     url: https://onlinelibrary.wiley.com/doi/pdf/10.1111/modl.12845
     desc: In <i>The Modern Language Journal</i>
-
 
 old_project_entries:
   - title: LxGrTagger-Doc (2024-)
