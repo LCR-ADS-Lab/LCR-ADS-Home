@@ -8,7 +8,7 @@ navbar_entries:
 project_entries:
   - title: Leveraging pre-trained language models for linguistic analysis (A case of argument structure constructions) (2024)
     url: https://aclanthology.org/2024.emnlp-main.415/
-    desc: In <i>EMNLP</i>
+    desc: In <i>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>
 
   - title: Building custom NLP tools to annotate discourse-functional features for second language writing research (A tutorial) (2024)
     url: https://www.sciencedirect.com/science/article/pii/S2772766124000594
