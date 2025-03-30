@@ -113,6 +113,8 @@ title: People
             </p>
             <h3>Previous Visiting Students</h3>
             <p>
+                <a href="https://www.arts.kuleuven.be/english/our-staff/bap/evacaltabellotta" target="_blank"><strong>Eva Caltabellotta</strong></a><br>
+                (PhD Student, W25)<br>
                 <strong>María Adsuara Martínez</strong><br>
                 (PhD Student, S23)<br>
                 <strong>Sabine Ricioppo</strong><br>
