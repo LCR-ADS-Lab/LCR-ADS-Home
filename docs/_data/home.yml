@@ -7,11 +7,13 @@ navbar_entries:
 
 project_entries:
 
-   - title: Comparing human and LLM proofreading in L2 writing: Impact on lexical and syntactic features 
-     desc: In <i>Proceedings of the 20th Workshop on Innovative Use of NLP for Building Educational Applications</i>
+   - title: Comparing human and LLM proofreading in L2 writing (Impact on lexical and syntactic features) (in press)
+     url:
+     desc: Forthcoming in <i>Proceedings of the 20th Workshop on Innovative Use of NLP for Building Educational Applications</i>
 
-  - title: Usage-based analysis of L2 oral proficiency: Characteristics of argument structure construction use
-     desc: In <i>Studies in Second Language Acquisition</i>  
+  - title: Usage-based analysis of L2 oral proficiency (Characteristics of argument structure construction use) (in press)
+     url:
+     desc: Forthcoming in <i>Studies in Second Language Acquisition</i>  
     
   - title: Leveraging pre-trained language models for linguistic analysis (A case of argument structure constructions) (2024)
     url: https://aclanthology.org/2024.emnlp-main.415/
