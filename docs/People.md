@@ -21,30 +21,6 @@ title: People
 
 ### Graduate Student Researchers
 
-<div style="display: flex; justify-content: center;">
-  <div style="flex: 1; padding-right: 20px; text-align: center;">
-    <a href="https://www.carlaconsolini.com/" target="_blank">
-      <div style="height: 125px; width: 125px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
-        <img src="images/carla.png" style="height: 100%;">
-      </div>
-    <br>
-    <strong>Carla Consolini</strong>
-    <br>
-    </a>
-    <span>(PhD Student, Linguistics, Fall19-)</span>
-  </div>
-  <div style="flex: 1; padding-left: 20px; text-align: center;">
-    <a href="https://hksung.github.io/" target="_blank">
-      <div style="height: 125px; width: 125px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
-        <img src="images/HS-pic.jpeg" style="height: 100%;">
-      </div>
-    <br>
-    <strong>Hakyung Sung</strong>
-    <br>
-    </a>      
-    <span>(PhD Student, Linguistics, Fall21-)</span>
-  </div>
-</div>
 <!-- Zeinab Rahimi Row with Placeholder for Alignment -->
 <div style="display: flex; justify-content: flex-start; margin-top: 20px;">
   <!-- Zeinab Rahimi -->
@@ -82,15 +58,7 @@ title: People
     </a>
     <span>(Associate Prof. from <em>Gyeongin National University of Education</em>, F24-S25)</span>
   </div>
-  <div style="flex: 1; padding-left: 20px; text-align: center;">
-      <div style="height: 125px; width: 125px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
-        <img src="images/KC.jpg" style="height: 100%;">
-      </div>
-    <br>
-    <strong>Karla Csuros</strong>
-    <br>   
-    <span>(PhD Student from <em>West University of Timisoara</em>, F24-S25)</span>
-  </div>
+
 </div>
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
@@ -103,7 +71,11 @@ title: People
             </p>
             <h3>Previous Graduate Students</h3>
             <p>
-                <a href="https://masakieguchi.weebly.com/" target="_blank"><strong>Masaki Eguchi</strong></a><br>
+              <a href="https://www.carlaconsolini.com/" target="_blank"><strong> Carla Consolini</strong></a><br>
+                (PhD, F19-S25)<br>
+              <a href="https://hksung.github.io/" target="_blank"><strong>Hakyung Sung</strong></a><br>
+                (PhD, F21-S25)<br>
+              <a href="https://masakieguchi.weebly.com/" target="_blank"><strong>Masaki Eguchi</strong></a><br>
                 (PhD, F18-S23)<br>
             </p>           
             <h3>Previous Visiting Scholars</h3>
@@ -113,6 +85,8 @@ title: People
             </p>
             <h3>Previous Visiting Students</h3>
             <p>
+                <strong>Karla Csuros</strong><br>
+                (PhD Student, F24-S25)<br>
                 <a href="https://www.arts.kuleuven.be/english/our-staff/bap/evacaltabellotta" target="_blank"><strong>Eva Caltabellotta</strong></a><br>
                 (PhD Student, W25)<br>
                 <strong>María Adsuara Martínez</strong><br>
