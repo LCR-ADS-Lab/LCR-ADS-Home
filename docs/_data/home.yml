@@ -7,13 +7,13 @@ navbar_entries:
 
 project_entries:
 
-    - title: Usage-based analysis of L2 oral proficiency (Characteristics of argument structure construction use)
-      url: https://doi.org/10.1017/S0272263125100995
-     desc: In <i>Studies in Second Language Acquisition</i>  
+  - title: Usage-based analysis of L2 oral proficiency (Characteristics of argument structure construction use)
+    url: https://doi.org/10.1017/S0272263125100995
+    desc: In <i>Studies in Second Language Acquisition</i>  
      
-   - title: Comparing human and LLM proofreading in L2 writing (Impact on lexical and syntactic features)
-     url: https://aclanthology.org/2025.bea-1.2/     
-     desc: In <i>Proceedings of the 20th Workshop on Innovative Use of NLP for Building Educational Applications</i>
+  - title: Comparing human and LLM proofreading in L2 writing (Impact on lexical and syntactic features)
+    url: https://aclanthology.org/2025.bea-1.2/     
+    desc: In <i>Proceedings of the 20th Workshop on Innovative Use of NLP for Building Educational Applications</i>
     
   - title: Leveraging pre-trained language models for linguistic analysis (A case of argument structure constructions) (2024)
     url: https://aclanthology.org/2024.emnlp-main.415/
@@ -30,14 +30,6 @@ project_entries:
   - title: The relationship between L2 spanish proficiency and features of written lexical and lexicogrammatical use (2024)
     url: https://academic.oup.com/applij/advance-article/doi/10.1093/applin/amae032/7660315
     desc: In <i>Applied Linguistics</i>
-
-  - title: Annotation Scheme for English Argument Structure Constructions Treebank (2024)
-    url: https://aclanthology.org/2024.law-1.2/
-    desc: In <i>Proceedings of The 18th Linguistic Annotation Workshop (LAW-XVIII)</i>
-
-  - title: Assessing spoken lexical and lexicogrammatical proficiency using features of word, bigram, and dependency bigram use (2023)
-    url: https://onlinelibrary.wiley.com/doi/pdf/10.1111/modl.12845
-    desc: In <i>The Modern Language Journal</i>
 
 old_project_entries:
   - title: LxGrTagger-Doc (2024-)
